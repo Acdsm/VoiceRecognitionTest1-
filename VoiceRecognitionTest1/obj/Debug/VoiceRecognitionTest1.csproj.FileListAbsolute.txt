@@ -1,0 +1,50 @@
+C:\Users\GB5413\Documents\VoiceRecognitionTest1\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.exe.config
+C:\Users\GB5413\Documents\VoiceRecognitionTest1\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.exe
+C:\Users\GB5413\Documents\VoiceRecognitionTest1\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.pdb
+C:\Users\GB5413\Documents\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csprojResolveAssemblyReference.cache
+C:\Users\GB5413\Documents\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.Form1.resources
+C:\Users\GB5413\Documents\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.Properties.Resources.resources
+C:\Users\GB5413\Documents\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csproj.GenerateResource.cache
+C:\Users\GB5413\Documents\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csproj.CoreCompileInputs.cache
+C:\Users\GB5413\Documents\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.exe
+C:\Users\GB5413\Documents\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.pdb
+F:\VoiceRecognitionTest1\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.exe.config
+F:\VoiceRecognitionTest1\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.exe
+F:\VoiceRecognitionTest1\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.pdb
+F:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csprojResolveAssemblyReference.cache
+F:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.Form1.resources
+F:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.Properties.Resources.resources
+F:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csproj.GenerateResource.cache
+F:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csproj.CoreCompileInputs.cache
+F:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.exe
+F:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.pdb
+D:\VoiceRecognitionTest1\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.exe.config
+D:\VoiceRecognitionTest1\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.exe
+D:\VoiceRecognitionTest1\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.pdb
+D:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csprojResolveAssemblyReference.cache
+D:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.Form1.resources
+D:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.Properties.Resources.resources
+D:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csproj.GenerateResource.cache
+D:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csproj.CoreCompileInputs.cache
+D:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.exe
+D:\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.pdb
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.exe.config
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.exe
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.pdb
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.Form1.resources
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.Properties.Resources.resources
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.exe
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.pdb
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1 - Copy\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.exe.config
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1 - Copy\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.exe
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1 - Copy\VoiceRecognitionTest1\bin\Debug\VoiceRecognitionTest1.pdb
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1 - Copy\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1 - Copy\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.Form1.resources
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1 - Copy\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.Properties.Resources.resources
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1 - Copy\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1 - Copy\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1 - Copy\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.exe
+C:\Users\Windows\Desktop\College Work\VoiceRecognitionTest1 - Copy\VoiceRecognitionTest1\obj\Debug\VoiceRecognitionTest1.pdb
